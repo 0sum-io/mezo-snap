@@ -49,3 +49,13 @@ https://github.com/user-attachments/assets/ffe496df-4140-44ee-9a72-469f99f4d814
 packages/snap/src/index.tsx
 ```
 
+## Publish on npm
+
+https://docs.metamask.io/snaps/how-to/publish-a-snap
+
+https://www.npmjs.com/package/@0sum/mezo
+
+```bash
+cd packages/snap
+npm publish --access public
+```

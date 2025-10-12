@@ -7,12 +7,12 @@
     "url": "https://github.com/0sum-io/mezo-snap.git"
   },
   "source": {
-    "shasum": "eJzfmdVVHlCxoW7oVvHB3HhqQEAGSYIplFy7yldH+Hk=",
+    "shasum": "OSRk/lU5wrwE7B2LYGgmyQGRYFL4Ay7xYzbaY2jUuT8=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
         "iconPath": "img/icon.svg",
-        "packageName": "mezo",
+        "packageName": "@0sum/mezo",
         "registry": "https://registry.npmjs.org/"
       }
     }

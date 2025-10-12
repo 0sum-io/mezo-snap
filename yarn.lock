@@ -5,6 +5,24 @@ __metadata:
   version: 6
   cacheKey: 8
 
+"@0sum/mezo@workspace:packages/snap":
+  version: 0.0.0-use.local
+  resolution: "@0sum/mezo@workspace:packages/snap"
+  dependencies:
+    "@jest/globals": ^29.5.0
+    "@metamask/snaps-cli": ^8.3.0
+    "@metamask/snaps-jest": ^9.4.0
+    "@metamask/snaps-sdk": ~9.3.0
+    "@types/react": 18.2.4
+    "@types/react-dom": 18.2.4
+    eslint: ^9.11.0
+    jest: ^29.5.0
+    rimraf: ^3.0.2
+    ts-jest: ^29.1.0
+    typescript: ~5.7.3
+  languageName: unknown
+  linkType: soft
+
 "@aashutoshrathi/word-wrap@npm:^1.2.3":
   version: 1.2.6
   resolution: "@aashutoshrathi/word-wrap@npm:1.2.6"
@@ -14183,16 +14201,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"methods@npm:~1.1.2":
-  version: 1.1.2
-  resolution: "methods@npm:1.1.2"
-  checksum: 0917ff4041fa8e2f2fda5425a955fe16ca411591fbd123c0d722fcf02b73971ed6f764d85f0a6f547ce49ee0221ce2c19a5fa692157931cecb422984f1dcd13a
-  languageName: node
-  linkType: hard
-
-"mezo@workspace:.":
+"metamask-snap@workspace:.":
   version: 0.0.0-use.local
-  resolution: "mezo@workspace:."
+  resolution: "metamask-snap@workspace:."
   dependencies:
     "@lavamoat/allow-scripts": ^3.3.4
     "@lavamoat/preinstall-always-fail": ^2.0.0
@@ -14217,6 +14228,13 @@ __metadata:
     typescript-eslint: ^8.6.0
   languageName: unknown
   linkType: soft
+
+"methods@npm:~1.1.2":
+  version: 1.1.2
+  resolution: "methods@npm:1.1.2"
+  checksum: 0917ff4041fa8e2f2fda5425a955fe16ca411591fbd123c0d722fcf02b73971ed6f764d85f0a6f547ce49ee0221ce2c19a5fa692157931cecb422984f1dcd13a
+  languageName: node
+  linkType: hard
 
 "micro-ftch@npm:^0.3.1":
   version: 0.3.1
@@ -17646,24 +17664,6 @@ __metadata:
   checksum: 0a7a79900bbb36f8aaa922cf111702a3647ac6165736d5dc96d3ef367efc50465cac70c53cd172c382b022dac72ec91710608e5393de71f76d7142e6fd80e8a3
   languageName: node
   linkType: hard
-
-"snap@workspace:packages/snap":
-  version: 0.0.0-use.local
-  resolution: "snap@workspace:packages/snap"
-  dependencies:
-    "@jest/globals": ^29.5.0
-    "@metamask/snaps-cli": ^8.3.0
-    "@metamask/snaps-jest": ^9.4.0
-    "@metamask/snaps-sdk": ~9.3.0
-    "@types/react": 18.2.4
-    "@types/react-dom": 18.2.4
-    eslint: ^9.11.0
-    jest: ^29.5.0
-    rimraf: ^3.0.2
-    ts-jest: ^29.1.0
-    typescript: ~5.7.3
-  languageName: unknown
-  linkType: soft
 
 "socket.io-adapter@npm:~2.5.2":
   version: 2.5.4
