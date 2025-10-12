@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "description": "Bring everyday finance to your Bitcoin",
+  "proposedName": "Mezo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0sum-io/mezo-snap.git"
+  },
+  "source": {
+    "shasum": "eJzfmdVVHlCxoW7oVvHB3HhqQEAGSYIplFy7yldH+Hk=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "iconPath": "img/icon.svg",
+        "packageName": "mezo",
+        "registry": "https://registry.npmjs.org/"
+      }
+    }
+  },
+  "initialPermissions": {
+    "endowment:cronjob": {
+      "jobs": [
+        {
+          "expression": "* * * * *",
+          "request": {
+            "method": "execute"
+          }
+        }
+      ]
+    },
+    "snap_notify": {},
+    "snap_manageState": {},
+    "endowment:network-access": {},
+    "endowment:lifecycle-hooks": {}
+  },
+  "platformVersion": "9.3.0",
+  "manifestVersion": "0.1"
+}
