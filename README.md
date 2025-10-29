@@ -29,7 +29,7 @@ This MetaMask Snap lets you receive important updates directly from the Mezo tea
     </g>
 </svg>
 
-https://github.com/user-attachments/assets/ffe496df-4140-44ee-9a72-469f99f4d814
+https://youtu.be/6P6NaShCm-M
 
 ## Edit Permissions
 
