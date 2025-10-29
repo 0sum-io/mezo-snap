@@ -2,6 +2,9 @@
 
 Bring Mezo Notifications to MetaMask.
 
+<img width="2021" height="566" alt="Mezo Logo" src="https://github.com/user-attachments/assets/a133c89d-b8fc-4802-a2d4-9d5b2df0fcd3" />
+
+
 This MetaMask Snap lets you receive important updates directly from the Mezo team. Stay informed about key announcements. Avoid unnecessary noise and keep your MetaMask experience focused and efficient.
 
 ![mezo-metamask-snap](https://github.com/user-attachments/assets/f6a9ecce-5622-4592-ad03-5cb4532a8308)<?xml version="1.0" encoding="UTF-8" standalone="no"?>
